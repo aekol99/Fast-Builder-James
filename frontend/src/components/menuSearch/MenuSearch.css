@@ -1,0 +1,20 @@
+.style-menu .menu-search {
+    border: 1px solid #6e6e6e;
+    border-radius: 10px;
+    padding: 7px 10px;
+    display: flex;
+    margin: 5px 30px;
+}
+.style-menu .menu-search input {
+    border: none;
+    background: none;
+    flex-grow: 1;
+}
+.style-menu .menu-search input:focus {
+    border: none;
+    outline: none;
+}
+.style-menu .menu-search i {
+    font-size: 14px;
+    color: #aaa;
+}

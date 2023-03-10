@@ -1,0 +1,18 @@
+.style-menu .menu-properties .property {
+    margin-bottom: 5px;
+}
+.style-menu .menu-properties .property .property-name {
+    font-size: 14px;
+}
+
+.style-menu .menu-properties .property .property-input {
+    display: block;
+    border: 1px solid #6e6e6e;
+    border-radius: 10px;
+    padding: 7px 10px;
+    margin: 8px 0;
+    width: 100%;
+}
+.style-menu .menu-properties .property .property-input:focus {
+    outline: none;
+}

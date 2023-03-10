@@ -1,0 +1,16 @@
+.style-menu .menu-categories {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+}
+.style-menu .menu-categories li {
+    font-size: 14px;
+    margin-right: 10px;
+}
+.style-menu .menu-categories li.active {
+    color: #286aff;
+    font-weight: bold;
+}

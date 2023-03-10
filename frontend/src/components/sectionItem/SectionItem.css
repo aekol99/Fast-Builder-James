@@ -1,0 +1,17 @@
+.style-menu .category-sections .section .actions .action {
+    font-size: 15px;
+    font-family: monospace;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 2px 3px;
+    margin: 3px;
+}
+.style-menu .category-sections .section .actions .action.added{
+    border-color: #286aff;
+    color: #286aff;
+    font-weight: bold;
+}
+.style-menu .category-sections .section .actions .action.added:hover {
+    border-color: #8dafff;
+    color: #8dafff;
+}

@@ -1,0 +1,11 @@
+.builder-button {
+    padding: 8px 15px;
+    text-align: center;
+    user-select: none;
+}
+.builder-button {
+    color: black;
+}
+.builder-button.active {
+    color: #286aff;
+}

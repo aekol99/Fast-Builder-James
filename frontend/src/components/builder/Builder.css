@@ -1,0 +1,15 @@
+.builder {
+    display: none;
+}
+.builder {
+    display: block;
+	position: absolute;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0.125rem 1.25rem rgba(0,0,0,.1)!important;
+    top: 20px;
+    left: 20px;
+    z-index: 1050;
+    cursor: pointer;
+    font-size: 18px;
+}

@@ -1,0 +1,24 @@
+.style-menu {
+    display: block;
+	position: absolute;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0.125rem 1.25rem rgba(0,0,0,.1)!important;
+    top: 20px;
+    right: 20px;
+    z-index: 1050;
+    cursor: pointer;
+    font-size: 18px;
+    width: 270px;
+    height: 500px;
+    user-select: none;
+}
+.style-menu .actions-menu-body::-webkit-scrollbar {
+    display: none;
+}
+.style-menu .actions-menu-body {
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    height: 430px;
+}

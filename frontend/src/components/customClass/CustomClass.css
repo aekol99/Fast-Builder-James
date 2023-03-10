@@ -1,0 +1,14 @@
+.style-menu .menu-properties .className {
+    font-size: 15px;
+    font-family: monospace;
+    border-radius: 5px;
+    padding: 2px 3px;
+    margin: 3px;
+    border: 1px solid #286aff;
+    color: #286aff;
+    font-weight: bold;
+}
+.style-menu .menu-properties .className:hover {
+    border-color: #8dafff;
+    color: #8dafff;
+}

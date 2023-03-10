@@ -1,0 +1,11 @@
+.style-menu .menu-properties .property {
+    margin-bottom: 5px;
+}
+.style-menu .menu-properties .property .property-name {
+    font-size: 14px;
+}
+
+.style-menu .menu-properties .property .property-value {
+    font-size: 15px;
+    margin: 0;
+}

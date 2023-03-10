@@ -1,0 +1,9 @@
+.selector {
+    width: 100%;
+    height: 24px;
+    background-color: #286aff;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    border-radius: 10px 10px 0 0;
+}

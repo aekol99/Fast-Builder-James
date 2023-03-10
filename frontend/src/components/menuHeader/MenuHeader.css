@@ -1,0 +1,14 @@
+.style-menu .menu-header{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    background: #e8efff;
+    padding: 10px;
+}
+.style-menu .menu-header li {
+    font-size: 14px;
+    margin-right: 10px;
+}
+.style-menu .menu-header li.active {
+    font-weight: bold;
+}

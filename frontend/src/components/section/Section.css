@@ -1,0 +1,8 @@
+.style-menu .category-sections .section {
+    margin-bottom: 15px;
+}
+.style-menu .category-sections .section .actions {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}

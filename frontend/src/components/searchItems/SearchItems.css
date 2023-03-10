@@ -1,0 +1,27 @@
+.style-menu .search-results {
+    padding: 10px 15px;
+}
+.style-menu .search-results b {
+    font-size: 14px;
+}
+.style-menu .search-results {
+    margin-bottom: 15px;
+}
+.style-menu .search-results .actions {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+.style-menu .search-results .actions .action {
+    font-size: 15px;
+    font-family: monospace;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 2px 3px;
+    margin: 3px;
+}
+.style-menu .search-results .actions .action.added{
+    border-color: #286aff;
+    color: #286aff;
+    font-weight: bold;
+}
